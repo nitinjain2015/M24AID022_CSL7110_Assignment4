@@ -1,10 +1,10 @@
 M24AID022_CSL7110_Assignment4- Github Repository
 
-Assignment4 : Clustering and Page Rank : CSL7110 – Machine Learning with Big Data Overview : This repository contains the code , submitted assignment pdf report, dataset files used for this Assignment4 for CSL7110.
+Assignment4 : Clustering and Page Rank : CSL7110 – Machine Learning with Big Data Overview : This repository contains the code , submitted assignment pdf report, dataset files used for this Assignment 4 for CSL7110.
 
 Code File including output : M24AID022_CSL7110_Assignment4.ipynb (all otputs are executed in jupyter notebook)
 
-The assignment has 3 questions are based on tne datset files provided with the assignment as attched in this repository :
+The assignment has 3 questions are based on tne datset files provided with the assignment as attached in this repository :
 
 Data files:
 
